@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ann-wangui
 - 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on project.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me wanguia822@gmail.com.
 
 <!---
