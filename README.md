@@ -25,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ann-wangui&show_icons=true&locale=en" alt="ann-wangui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ann-wangui&" alt="ann-wangui" /></p>
