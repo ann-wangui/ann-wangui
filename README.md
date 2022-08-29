@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ann wangui</h1>
 <h3 align="center">A passionate full stack developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 
 - 🌱 I’m currently learning **react**
@@ -11,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ann-wangui-30106b235/) 
