@@ -2,7 +2,7 @@
 <h3 align="center">A full stack developer from Kenya</h3>
 
 
-- 🌱 I’m currently learning **react** and wordpress
+- 🌱 I’m currently learning **react** and **wordpress**
 
 - 👯 I’m looking to collaborate on **frontend and backend projects**
 
